@@ -10,3 +10,8 @@
 !singlesite.com
 !ssl.com
 !ssl-fastcgi-cache.com
+!www.fastcgi-cache.com
+!www.multisite-subdirectory.com
+!www.singlesite.com
+!www.ssl.com
+!www.ssl-fastcgi-cache.com
